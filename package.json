@@ -1,0 +1,32 @@
+{
+  "name": "model-bot",
+  "version": "1.0.0",
+  "description": "Bot structure model",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tvpirates/model-bot-discord-js-v14.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Aros, Team Xelyos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tvpirates/model-bot-discord-js-v14/issues"
+  },
+  "homepage": "https://github.com/Tvpirates/model-bot-discord-js-v14#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord-api-types": "^0.37.2",
+    "discord.js": "^14.2.0",
+    "dotenv": "^16.0.1",
+    "log-timestamp": "^0.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  }
+}
